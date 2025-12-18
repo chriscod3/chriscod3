@@ -1,16 +1,13 @@
-## Hi there 👋
+# Chris
 
-<!--
-**chriscod3/chriscod3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=chriscod3&color=blue)
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chriscod3&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chriscod3&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=chriscod3&theme=tokyonight)
+
+## 📈 Activity
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chriscod3&theme=tokyo-night)
